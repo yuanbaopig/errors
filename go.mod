@@ -1,4 +1,4 @@
-module github.com/marmotedu/errors
+module github.com/yuanbaopig/errors
 
 go 1.16
 
